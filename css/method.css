@@ -130,13 +130,14 @@ body{
     margin: 2%;
     color: white;
     text-align: center;
+    margin-top: -5px;
 }
 
 .line{
     width: 500px;
     height: 1px;
     background-color: white;
-    margin-top: 230px;
+    margin-top: 200px;
     margin-left: 100px;
 }
 
@@ -159,13 +160,14 @@ body{
     margin: 2%;
     color: white;
     text-align: center;
+    margin-top: -5px;
 }
 
 .line-two{
     width: 500px;
     height: 1px;
     background-color: white;
-    margin-top: 70px;
+    margin-top: 60px;
     margin-left: 100px;
 }
 
@@ -188,13 +190,14 @@ body{
     margin: 2%;
     color: white;
     text-align: center;
+    margin-top: -5px;
 }
 
 .line-three{
     width: 500px;
     height: 1px;
     background-color: white;
-    margin-top: 80px;
+    margin-top: 65px;
     margin-left: 100px;
 }
 
@@ -217,13 +220,14 @@ body{
     margin: 2%;
     color: white;
     text-align: center;
+    margin-top: -5px;
 }
 
 .line-four{
     width: 500px;
     height: 1px;
     background-color: white;
-    margin-top: 80px;
+    margin-top: 65px;
     margin-left: 100px;
 }
 
@@ -246,13 +250,14 @@ body{
     margin: 2%;
     color: white;
     text-align: center;
+    margin-top: -5px;
 }
 
 .line-five{
     width: 500px;
     height: 1px;
     background-color: white;
-    margin-top: 80px;
+    margin-top: 55px;
     margin-left: 100px;
 }
 
@@ -275,6 +280,7 @@ body{
     margin: 2%;
     color: white;
     text-align: center;
+    margin-top: -5px;
 }
 
 .play-bar{
