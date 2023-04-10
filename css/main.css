@@ -5,10 +5,14 @@ nav{
 }
 
 .logo{
-    padding-top: 20px;
-    padding-left: 20px;
-    padding-top: 50px;
+    width: 200px;
+    height: 60px;
+    background-image: url(../assets/stream_logo_white.png);
+    background-position: center;
+    background-size: cover;
+    margin-left: 20px;
     color: white;
+    padding-top: 40px;
 }
 
 .nav-con ul{
