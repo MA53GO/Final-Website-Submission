@@ -66,17 +66,27 @@ body{
 }
 
 .description h4{
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Rubik Pixels', cursive;
     font-weight: 500;
 }
 
 .description h1{
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Rubik Pixels', cursive;
+    font-weight: 900;
+}
+
+.description p{
+    font-family: 'Rubik Pixels', cursive;
     font-weight: 900;
 }
 
 ul{
     list-style: none;
+}
+
+.arrow-icons{
+    font-family: 'Rubik Pixels', cursive;
+    font-weight: 900;
 }
 
 .round-frame{
@@ -123,6 +133,10 @@ ul{
     margin-left: 110px;
 }
 
+.for-font{
+    font-family: 'Rubik Pixels', cursive;
+}
+
 iframe{
     margin-top: 25px;
     height: 200px;
@@ -162,6 +176,8 @@ form{
     text-align: center;
     background-color: rgb(2, 239, 180);
     color: rgb(0, 0, 0);
+    font-family: 'Rubik Pixels', cursive;
+    font-weight: 900;
 }
 
 .input-l{
